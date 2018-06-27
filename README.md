@@ -16,7 +16,7 @@ I'm dual majoring in computer science and software engineering.
 
 ## Example Code
 This code is from the CSS on a website of mine.
-
+```
                 body {
                     margin: 0;
                     padding: 0;
@@ -71,5 +71,5 @@ This code is from the CSS on a website of mine.
                 img {
                      size: -20em;
                 }
-
+```
 
